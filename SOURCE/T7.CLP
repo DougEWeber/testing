@@ -1,3 +1,3 @@
 PGM
-/* T5 */
+/* T7 */
 ENDPGM
