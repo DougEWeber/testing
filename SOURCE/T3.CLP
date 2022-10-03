@@ -3,4 +3,5 @@ PGM
 /* adding test changes for rdi test */
 /* another test comment */
 /* JUNK */
+/* test for expanded version more stuff */
 ENDPGM
