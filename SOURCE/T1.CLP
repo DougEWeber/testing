@@ -10,5 +10,5 @@ PGM
 /* CHANGE AGAIN */
 /* somemore changes*/
 /* test changes*/
-
+/* change in conflict with stash */
 ENDPGM
