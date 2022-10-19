@@ -1,0 +1,3 @@
+PGM
+/* TEST FILE */
+ENDPGM
