@@ -2,4 +2,5 @@ PGM
 /* T10 */
 /* strange change */
 /* test change */
+dspsysvar qtime
 ENDPGM
