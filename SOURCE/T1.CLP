@@ -4,6 +4,8 @@ PGM
 /* I AM TESTING */
 /* CHANGED FOR REL 2 */
 /* adding changes to test RDi */
+/* more changes *.
+/* changing */
 /* more changes */
 /* changes made in rdi */
 /* CHANGING */
